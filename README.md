@@ -1,5 +1,5 @@
 # About Me, Boris Niehaus (aka Just):
-✅ I developed the App  <a href="https://linkpop.com/polizeistressi" target="blank"/>POLIZEI STRESSI</a> (w/ Flutter) iOS & Android<br>🌱 I’m currently learning App-Development (Flutter, <a href="https://github.com/just1984/school_progress_kotlin" target="blank">Kotlin</a>, Swift)<br>👯 I’m looking to collaborate on political projects<br>📫 How to reach me: bo.niehaus@gmail.com<br>😄 Pronouns: no pronouns<br>⚡ Fun fact: Besides i am working as a Photographer/Journalist. This is my <a href="www.borisniehaus.de" target="blank">Portfolio</a>.
+✅ I developed the App  <a href="https://linkpop.com/polizeistressi" target="blank"/>POLIZEI STRESSI</a> (w/ Flutter) iOS & Android<br>🌱 I’m currently learning App-Development (Flutter, <a href="https://github.com/just1984/school_progress_kotlin" target="blank">Kotlin</a>, Swift)<br>👯 I’m looking to collaborate on political projects<br>📫 How to reach me: bo.niehaus@gmail.com<br>😄 Pronouns: no pronouns or who/where/why<br>⚡ Fun fact: Besides i am working as a Photographer/Journalist. This is my <a href="www.borisniehaus.de" target="blank">Portfolio</a>.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bo-niehaus-671a90261)<br>

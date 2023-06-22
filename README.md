@@ -14,7 +14,7 @@ As a freelance photojournalist and UI/UX web designer, I have a diverse range of
 
 Since 2007, I have been working as a freelance photojournalist with Snapshot Photography agency. Simultaneously, I have been offering my services as a UI/UX web designer, specializing in WordPress, since 2010. Additionally, I founded Vegspress, an ecological delivery service (vegspress.de), from 2012 to 2015. During my time at ACB-Webdesign from 2013 to 2018, I worked as a marketing strategist, blogger, and photographer. I also engaged in (Black Hat) marketing as a self-employed professional from 2015 to 2020. Currently, I am self-employed as a mobile app developer since 2022.
 
-Throughout my career, I have undertaken numerous photojournalistic trips abroad. These include visits to Israel and the West Bank in 2012, Aleppo, Syria in the same year, Israel and Gaza in 2014, Iraq and Syria in the same year, Iceland in 2015, and the Mediterranean Sea off Libya aboard Seat-Watch 3 in 2019 and 2020.
+Throughout my career, I have undertaken numerous photojournalistic trips abroad. These include visits to Israel and the West Bank in 2012, Aleppo, Syria in the same year, Israel and Gaza in 2014, Iraq and Syria in the same year, Iceland in 2015, and the Mediterranean Sea off Libya aboard Sea-Watch 3 in 2019 and 2020.
 
 In terms of skills, I am proficient in mobile application development, WordPress, HTML, Adobe Photoshop, Adobe Premiere, Adobe Lightroom, marketing tools, Dart, Flutter, Google Sheets, Microsoft Excel, Microsoft Office, Swift (programming language), Kotlin, and Figma (software).
 
